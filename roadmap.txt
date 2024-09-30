@@ -1,0 +1,6 @@
+/server
+  ├── /templates/
+  │    └── index.html
+  │    └── absensi_form.html
+  ├── app.py
+  └── database.json
